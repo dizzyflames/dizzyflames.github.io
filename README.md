@@ -1,0 +1,1 @@
+use "bundle exec jekyll serve" to test the site locally.
